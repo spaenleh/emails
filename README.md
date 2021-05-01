@@ -18,3 +18,6 @@ The first time you will connect to the account a browser window will open and pr
 
 If you wish to use a Google spreadsheet to pull iformations from you will need to add the `service_account_secrets.json` file to the `drive_secrets` folder.
 
+## Infos
+
+Sensible informations are stored in a `.env` to preserv details from leaking in the source code
