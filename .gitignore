@@ -1,3 +1,16 @@
+
+# Pycharm files
+.idea/*
+
+# project specific files
+drive_secrets/*
+email_secrets/*
+generated_tokens/
+
+# keep directories
+!drive_secrets/.gitkeep
+!email_secrets/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,10 +141,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Pycharm files
-.idea/
-
-# project specific files 
-drive_secrets/*
-email_secrets/*
-generated_tokens/
