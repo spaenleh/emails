@@ -1,0 +1,33 @@
+======= english below =============
+
+Salut {0} !
+
+Le comité de l'ADELE (Association des étudiant.e.s electricie.ne.s) est heureux de te rappeler que tu as un évènement de prévu !
+Ce jeudi 15 mars à 17h : ABBxADELE !
+
+Voici le lien pour rejoindre l'événement : {1}
+
+Si tu n'as pas l'application Microsoft Teams installée tu peux soit utiliser la version web (non disponible avec Mozilla Firefox) ou bien télécharger l'application avec ton compte EPFL
+
+Note: Tu trouveras un fichier en pièce jointe contenant des indices pour l'étude de cas pratique.
+
+Électriquement vôtre,
+
+l’ADELE.
+
+-------------------------------------------------------------------------------
+
+Hey {0} !
+
+The ADELE Comitee is happy to remind you that you have an upcoming event !
+This Thursday the 15th of April at 5PM : ABBxADELE !
+
+Here is the link to join the event : {1}
+
+If you don't have the Microsoft Teams application installed you can either use the web based version (unavailable on Mozilla Firefox) or download Microsoft Teams with your EPFL Microsoft account
+
+Note: You will find attached to this email a file containing hints for the practical case study.
+
+Electrically yours,
+
+ADELE.

@@ -1,0 +1,23 @@
+======= english below =============
+
+Salut {0} !
+
+Merci pour ta commande de pull {1} en taille {2} !
+
+Nous avons bien reçu ton paiement !
+
+Électriquement vôtre,
+
+l’ADELE.
+
+-------------------------------------------------------------------------------
+
+Hey {0} !
+
+Thank you for your order of a {1} sweater in size {2} !
+
+We received your payment !
+
+Electrically yours,
+
+ADELE.
